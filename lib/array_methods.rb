@@ -8,7 +8,7 @@ end
 
 def using_reverse(array)
   array = [1,2,3,4,5]
-  array.reverse
+  array.reverse!
 end
 
 def using_first(array)
